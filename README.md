@@ -53,7 +53,7 @@ Soft SVM on Non-linear Data
 
 Hard SVM on Non-linear Data
 
-- **Linear SVM on non-linear data **
+- **Linear SVM on non-linear data**
 
 ![](/images/Linear_SVM_on_non_linear_data.png)
 
